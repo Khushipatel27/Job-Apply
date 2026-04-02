@@ -1,0 +1,20 @@
+{
+  "name": "job-hunt-agent",
+  "version": "1.0.0",
+  "description": "AI-powered Job Hunt Agent with LinkedIn scraping and ATS scoring",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"node server.js\" \"cd client && npm run dev\"",
+    "build": "cd client && npm run build",
+    "start": "node server.js",
+    "install:all": "npm install && cd client && npm install"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cache-001",
+    "title": "Software Engineer, Full Stack",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "url": "https://www.linkedin.com/jobs/view/3876543210",
+    "postedAt": "3 hours ago",
+    "description": "We're looking for a Full Stack Software Engineer to join our payments infrastructure team. You'll work with React, TypeScript, Node.js, and Go to build reliable payment systems at scale. Requirements: 3+ years of full-stack experience, proficiency in TypeScript and React, experience with REST APIs and microservices, strong understanding of distributed systems. Nice to have: experience with financial systems, Go or Rust, Kubernetes.",
+    "experienceLevel": "Mid-Level"
+  },
+  {
+    "id": "cache-002",
+    "title": "Senior Frontend Engineer",
+    "company": "Linear",
+    "location": "Remote, US",
+    "url": "https://www.linkedin.com/jobs/view/3876543211",
+    "postedAt": "5 hours ago",
+    "description": "Linear is looking for a Senior Frontend Engineer to help us build the future of project management tools. You'll own large features end-to-end, working with React, TypeScript, GraphQL, and our custom rendering engine. Requirements: 5+ years of frontend experience, expert-level React and TypeScript, deep knowledge of performance optimization, experience with complex state management (Redux, Zustand, or similar). We value craft, speed, and simplicity.",
+    "experienceLevel": "Senior"
+  },
+  {
+    "id": "cache-003",
+    "title": "Machine Learning Engineer",
+    "company": "Scale AI",
+    "location": "San Francisco, CA (Hybrid)",
+    "url": "https://www.linkedin.com/jobs/view/3876543212",
+    "postedAt": "8 hours ago",
+    "description": "Scale AI is seeking an ML Engineer to join our foundation models team. You will design and implement data pipelines, fine-tune large language models, and develop evaluation frameworks. Requirements: MS/PhD in CS or related field, 2+ years of ML engineering experience, proficiency in Python, PyTorch or JAX, experience with LLMs and RLHF, familiarity with distributed training on GPU clusters. Strong publication record is a plus.",
+    "experienceLevel": "Mid-Level"
+  },
+  {
+    "id": "cache-004",
+    "title": "Backend Engineer – Data Platform",
+    "company": "Notion",
+    "location": "New York, NY",
+    "url": "https://www.linkedin.com/jobs/view/3876543213",
+    "postedAt": "12 hours ago",
+    "description": "Notion's Data Platform team is hiring a Backend Engineer to scale our storage and query infrastructure. You'll work on systems that handle billions of blocks for millions of users. Tech stack: Go, PostgreSQL, Kafka, Kubernetes. Requirements: 3+ years of backend engineering experience, strong knowledge of databases and distributed systems, experience with high-throughput data pipelines, Go or similar systems language. You'll have significant autonomy and direct impact.",
+    "experienceLevel": "Mid-Level"
+  },
+  {
+    "id": "cache-005",
+    "title": "Software Engineering Intern – Summer 2025",
+    "company": "Figma",
+    "location": "San Francisco, CA",
+    "url": "https://www.linkedin.com/jobs/view/3876543214",
+    "postedAt": "18 hours ago",
+    "description": "Figma is looking for Software Engineering Interns for Summer 2025. You'll work alongside full-time engineers on real projects that ship to millions of users. We use C++, TypeScript, React, and WebAssembly. Requirements: Currently pursuing a BS/MS in Computer Science or related field, strong fundamentals in algorithms and data structures, experience with at least one systems or web technology. Previous internship experience is a plus but not required.",
+    "experienceLevel": "Internship"
+  }
+]
